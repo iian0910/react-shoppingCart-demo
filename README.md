@@ -1,4 +1,4 @@
-# Vue x Google Firebase
+# React 簡易購物車
 
 ## 作品說明
 使用 React 建立一個簡易購物車
